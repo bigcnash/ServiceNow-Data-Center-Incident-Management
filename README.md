@@ -1,3 +1,7 @@
+![ServiceNow Data Center Incident Management](screenshots/servicenow-banner.png)
+
+---
+
 # 🖥️ ServiceNow Data Center Incident Management & Troubleshooting Lab
 
 ## 📋 Project Overview
